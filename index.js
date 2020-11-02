@@ -5,7 +5,11 @@ let port = process.env.PORT || 8080;
 
 http.createServer(function(req, res){
     res.writeHead(200);
-    res.write("Hello World");
+    res.write("Amanda Leighton Schjoedt er en cutie\n");
+    res.write("Amanda Leighton Schjoedt er en cutie\n");
+    res.write("Amanda Leighton Schjoedt er en cutie\n");
+    res.write("Amanda Leighton Schjoedt er en cutie\n");
+    res.write("Amanda Leighton Schjoedt er en cutie\n");
     res.end();
 }).listen(port);
 
