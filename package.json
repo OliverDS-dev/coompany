@@ -1,0 +1,24 @@
+{
+  "name": "coompany",
+  "version": "0.0.1",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverDS-dev/coompany.git"
+  },
+  "author": "oliver spurv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverDS-dev/coompany/issues"
+  },
+  "homepage": "https://github.com/OliverDS-dev/coompany#readme",
+  "dependencies": {
+    "heroku": "^7.47.0",
+    "http": "0.0.1-security",
+    "should": "^13.2.3"
+  }
+}
